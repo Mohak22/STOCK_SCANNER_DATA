@@ -1,0 +1,6 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-06-08,strategy_1,EMAMILTD,FMCG,Fast Moving Consumer Goods,34.82,20.02,27.45,26.3,0.79,420.33,385.75,23154.75,48227.8
+2026-06-08,strategy_1,NTPC,COMMODITIES,Power,40.78,25.89,31.25,28.03,1.03,385.05,364.1,23154.75,105.2
+2026-06-08,strategy_1,ONGC,COMMODITIES,Oil Gas & Consumable Fuels,40.78,28.09,33.01,32.48,0.27,280.53,265.1,23154.75,105.2
+2026-06-08,strategy_1,ITC,CONSUMPTION,Fast Moving Consumer Goods,42.38,30.14,33.16,32.92,0.58,298.69,280.85,23154.75,103.43
+2026-06-08,strategy_1,ESCORTS,MNC,Capital Goods,41.78,36.4,38.7,36.48,0.55,3005.11,2800.1,23154.75,104.69
