@@ -1,0 +1,4 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-06-10,strategy_1,RAJTV,WAVES,"Media, Entertainment & Publication",40.34,6.21,10.74,10.32,1.56,22.11,12.01,23333.15,98.33
+2026-06-10,strategy_1,ULTRACEMCO,CEMENT,Construction Materials,,31.37,34.94,34.36,0.78,11439.41,10925.0,23333.15,14293.9
+2026-06-10,strategy_1,TATAPOWER,COMMODITIES,Power,39.07,26.44,35.23,34.99,0.53,413.11,398.85,23333.15,102.93
