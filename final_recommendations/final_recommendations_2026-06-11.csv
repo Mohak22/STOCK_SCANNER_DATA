@@ -1,0 +1,9 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-06-11,strategy_1,NTPC,COMMODITIES,Power,32.29,16.88,25.92,25.64,0.88,381.66,351.85,23236.55,102.13
+2026-06-11,strategy_1,OIL,COMMODITIES,Oil Gas & Consumable Fuels,32.29,20.32,28.23,27.31,2.0,479.5,428.9,23236.55,102.13
+2026-06-11,strategy_1,JINDALSTEL,COMMODITIES,Metals & Mining,32.29,20.69,30.16,28.05,0.68,1203.6,1126.3,23236.55,102.13
+2026-06-11,strategy_1,VEDL,COMMODITIES,Metals & Mining,32.29,30.54,30.19,27.36,0.8,438.36,305.45,23236.55,102.13
+2026-06-11,strategy_1,RELIANCE,COMMODITIES,Oil Gas & Consumable Fuels,32.29,26.6,31.26,27.85,0.47,1345.75,1266.8,23236.55,102.13
+2026-06-11,strategy_1,TATACONSUM,CONSUMPTION,Fast Moving Consumer Goods,41.84,28.62,35.29,34.19,0.21,1146.65,1110.8,23236.55,102.94
+2026-06-11,strategy_1,ULTRACEMCO,CEMENT,Construction Materials,,33.84,35.55,32.85,0.39,11401.77,10930.0,23236.55,14180.05
+2026-06-11,strategy_1,APLAPOLLO,COMMODITIES,Capital Goods,32.29,34.08,35.79,32.66,0.53,1893.05,1775.9,23236.55,102.13
