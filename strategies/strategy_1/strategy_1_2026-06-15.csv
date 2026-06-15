@@ -1,0 +1,5 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-06-15,strategy_1,WIPRO,DIGITAL,Information Technology,58.67,32.19,34.69,32.36,0.3,195.38,181.63,23890.05,112.7
+2026-06-15,strategy_1,HCLTECH,DIGITAL,Information Technology,58.67,36.91,37.31,32.89,0.48,1209.83,1123.4,23890.05,112.7
+2026-06-15,strategy_1,COALINDIA,COMMODITIES,Oil Gas & Consumable Fuels,48.02,31.63,37.82,37.36,0.3,459.72,444.0,23890.05,107.04
+2026-06-15,strategy_1,TCS,DIGITAL,Information Technology,58.67,38.87,38.4,37.16,0.39,2319.42,2170.4,23890.05,112.7
