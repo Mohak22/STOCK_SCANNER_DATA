@@ -1,0 +1,8 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-06-24,strategy_1,JINDALSTEL,COMMODITIES,Metals & Mining,45.62,24.82,29.55,26.3,0.87,1175.18,1090.4,24061.1,108.75
+2026-06-24,strategy_1,VEDL,COMMODITIES,Metals & Mining,45.62,26.93,30.2,30.04,0.61,391.39,282.0,24061.1,108.75
+2026-06-24,strategy_1,WIPRO,DIGITAL,Information Technology,57.31,26.96,31.2,30.22,1.5,191.12,175.0,24061.1,113.77
+2026-06-24,strategy_1,INFY,DIGITAL,Information Technology,57.31,34.55,36.34,30.95,0.51,1168.68,1054.9,24061.1,113.77
+2026-06-24,strategy_1,SAIL,HOUSING,METALS,,33.03,37.93,31.9,0.71,182.29,173.31,24061.1,15991.25
+2026-06-24,strategy_1,TCS,DIGITAL,Information Technology,57.31,38.43,38.12,31.36,0.55,2276.13,2108.5,24061.1,113.77
+2026-06-24,strategy_1,LTM,DIGITAL,Information Technology,57.31,36.86,39.79,37.5,0.58,4076.16,3802.2,24061.1,113.77
