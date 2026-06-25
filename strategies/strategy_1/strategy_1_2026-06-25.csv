@@ -1,0 +1,4 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-06-25,strategy_1,WIPRO,DIGITAL,Information Technology,55.51,26.14,31.32,30.87,0.44,190.48,174.7,24198.8,112.23
+2026-06-25,strategy_1,SAIL,HOUSING,METALS,,29.86,34.17,33.36,0.4,182.29,171.93,24198.8,15999.0
+2026-06-25,strategy_1,JSWSTEEL,COMMODITIES,Metals & Mining,43.49,31.43,36.89,35.57,0.68,1262.33,1234.7,24198.8,106.13
