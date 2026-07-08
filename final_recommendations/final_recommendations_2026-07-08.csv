@@ -1,0 +1,4 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-07-08,strategy_1,IGL,ENERGY,Oil Gas & Consumable Fuels,36.58,23.42,32.15,31.92,0.91,161.68,152.37,23938.9,38724.7
+2026-07-08,strategy_1,NTPCGREEN,ENERGY,Power,36.58,31.92,33.74,32.53,1.05,99.23,92.93,23938.9,38724.7
+2026-07-08,strategy_1,GVT&D,ENERGY,Capital Goods,36.58,32.75,39.38,38.64,0.44,4730.25,4462.0,23938.9,38724.7
