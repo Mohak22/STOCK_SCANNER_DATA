@@ -1,0 +1,3 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-07-14,strategy_1,PFC,FINANCE,Financial Services,51.56,31.83,37.75,37.05,0.5,428.23,405.8,24045.6,26479.85
+2026-07-14,strategy_1,COALINDIA,COMMODITIES,Oil Gas & Consumable Fuels,51.03,39.07,38.79,36.55,0.76,445.59,431.8,24045.6,99.48
