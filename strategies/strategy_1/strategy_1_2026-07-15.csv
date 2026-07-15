@@ -1,0 +1,4 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-07-15,strategy_1,ITC,CONSUMPTION,Fast Moving Consumer Goods,56.18,26.72,31.95,29.49,0.51,290.2,276.55,24086.1,105.28
+2026-07-15,strategy_1,IRFC,PSE,Financial Services,42.4,35.36,36.49,35.98,0.34,94.95,88.82,24086.1,9911.15
+2026-07-15,strategy_1,RVNL,INFRA_LOGISTICS,Construction,53.96,37.86,38.61,37.53,0.63,247.87,228.05,24086.1,109.07
