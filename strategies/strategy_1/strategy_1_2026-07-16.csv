@@ -1,0 +1,8 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-07-16,strategy_1,RAJTV,WAVES,"Media, Entertainment & Publication",33.41,35.1,28.69,25.74,0.24,15.05,11.87,24077.75,93.91
+2026-07-16,strategy_1,VBL,CONSUMPTION,Fast Moving Consumer Goods,55.19,25.1,31.12,30.84,0.45,500.57,464.55,24077.75,104.87
+2026-07-16,strategy_1,TATASTEEL,COMMODITIES,Metals & Mining,47.59,35.28,35.63,35.39,0.32,197.53,185.36,24077.75,98.24
+2026-07-16,strategy_1,COALINDIA,COMMODITIES,Oil Gas & Consumable Fuels,47.59,32.1,36.24,35.93,0.64,443.95,427.75,24077.75,98.24
+2026-07-16,strategy_1,BAGFILMS,WAVES,"Media, Entertainment & Publication",33.41,39.37,37.81,36.25,0.12,4.83,4.49,24077.75,93.91
+2026-07-16,strategy_1,CREATIVEYE,WAVES,"Media, Entertainment & Publication",33.41,36.63,38.92,38.53,0.55,6.52,6.03,24077.75,93.91
+2026-07-16,strategy_1,ITC,CONSUMPTION,Fast Moving Consumer Goods,55.19,38.79,39.7,32.77,0.75,289.89,279.75,24077.75,104.87
