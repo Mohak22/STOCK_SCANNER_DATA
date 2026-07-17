@@ -1,0 +1,2 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-07-17,strategy_1,SUNTV,MEDIA,Media Entertainment & Publication,55.97,34.13,37.07,35.22,0.26,526.01,496.85,24230.25,1508.35
