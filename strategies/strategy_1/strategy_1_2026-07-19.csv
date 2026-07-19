@@ -1,0 +1,5 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-07-19,strategy_1,COALINDIA,COMMODITIES,Oil Gas & Consumable Fuels,46.85,32.19,35.69,35.18,0.79,443.73,427.65,24334.3,96.84
+2026-07-19,strategy_1,TATASTEEL,COMMODITIES,Metals & Mining,46.85,37.44,36.5,35.46,0.74,197.18,185.89,24334.3,96.84
+2026-07-19,strategy_1,HINDCOPPER,METAL,Metals & Mining,40.52,38.11,37.92,36.4,0.67,515.45,486.15,24334.3,12436.95
+2026-07-19,strategy_1,CINELINE,WAVES,"Media, Entertainment & Publication",38.79,37.88,38.64,35.85,0.33,80.67,76.65,24334.3,94.66
