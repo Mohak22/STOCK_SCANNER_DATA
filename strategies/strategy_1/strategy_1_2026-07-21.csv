@@ -1,0 +1,4 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-07-21,strategy_1,UFO,WAVES,"Media, Entertainment & Publication",37.9,32.79,35.4,33.37,0.33,71.6,67.82,24184.15,94.08
+2026-07-21,strategy_1,SUNTV,MEDIA,Media Entertainment & Publication,60.95,37.47,38.69,34.25,0.34,522.65,493.9,24184.15,1536.45
+2026-07-21,strategy_1,DEN,WAVES,"Media, Entertainment & Publication",37.9,34.52,39.36,38.38,0.37,28.72,27.15,24184.15,94.08
