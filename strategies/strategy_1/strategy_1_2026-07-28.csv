@@ -1,0 +1,5 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-07-28,strategy_1,SJVN,CPSE,Power,28.94,22.02,27.61,25.67,0.33,72.26,67.76,23988.25,88.17
+2026-07-28,strategy_1,MAZDOCK,DEFENCE,Capital Goods,36.83,27.79,35.15,34.94,0.46,2446.84,2294.9,23988.25,104.17
+2026-07-28,strategy_1,NBCC,CPSE,Construction,28.94,37.82,39.25,35.79,0.35,99.6,94.97,23988.25,88.17
+2026-07-28,strategy_1,IGL,ENERGY,Oil Gas & Consumable Fuels,32.97,39.55,39.62,37.67,0.39,158.03,150.94,23988.25,38268.95
