@@ -1,0 +1,7 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-07-30,strategy_1,ATGL,ENERGY,Oil Gas & Consumable Fuels,33.84,25.93,32.13,30.6,0.24,694.55,648.55,24286.2,38257.8
+2026-07-30,strategy_1,MTARTECH,DEFENCE,Capital Goods,38.63,32.53,34.13,28.14,3.55,6682.72,5453.5,24286.2,103.81
+2026-07-30,strategy_1,COALINDIA,COMMODITIES,Oil Gas & Consumable Fuels,49.41,34.65,34.32,22.75,2.99,440.02,417.0,24286.2,97.87
+2026-07-30,strategy_1,GVT&D,ENERGY,Capital Goods,33.84,35.16,37.42,34.14,0.74,4597.05,4170.9,24286.2,38257.8
+2026-07-30,strategy_1,MAZDOCK,DEFENCE,Capital Goods,38.63,39.39,39.33,37.94,1.37,2435.53,2315.5,24286.2,103.81
+2026-07-30,strategy_1,ABSLAMC,CAPITALMARKETS,Financial Services,41.65,38.1,39.81,35.97,0.12,1086.25,1019.5,24286.2,104.02
