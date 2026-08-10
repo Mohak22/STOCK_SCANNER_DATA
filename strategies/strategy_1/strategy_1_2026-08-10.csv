@@ -1,0 +1,5 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-08-10,strategy_1,HDFCBANK,BANK,Financial Services,50.87,31.36,34.55,33.64,0.6,767.5,732.4,24584.85,57630.6
+2026-08-10,strategy_1,YESBANK,BANK,Financial Services,50.87,37.96,39.3,38.59,0.47,23.27,22.72,24584.85,57630.6
+2026-08-10,strategy_1,ADANIPOWER,COMMODITIES,Power,56.36,40.55,39.49,39.02,0.37,217.89,209.26,24584.85,98.57
+2026-08-10,strategy_1,ATGL,ENERGY,Oil Gas & Consumable Fuels,35.45,41.01,39.61,37.84,0.36,684.05,660.65,24584.85,38713.8
