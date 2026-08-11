@@ -1,0 +1,9 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-08-11,strategy_1,ZEEMEDIA,WAVES,"Media, Entertainment & Publication",44.51,33.45,33.04,27.61,0.68,7.87,7.05,24471.7,94.25
+2026-08-11,strategy_1,ENIL,WAVES,"Media, Entertainment & Publication",44.51,27.54,33.19,32.78,2.74,108.27,101.59,24471.7,94.25
+2026-08-11,strategy_1,COALINDIA,COMMODITIES,Oil Gas & Consumable Fuels,51.01,34.63,34.39,31.45,1.53,432.06,412.6,24471.7,97.81
+2026-08-11,strategy_1,INOXWIND,ENERGY,Capital Goods,35.39,34.09,34.52,31.26,0.99,82.89,74.4,24471.7,38707.75
+2026-08-11,strategy_1,NLCINDIA,CPSE,Power,40.85,32.83,35.16,34.41,1.09,307.95,286.05,24471.7,91.51
+2026-08-11,strategy_1,SIGNPOST,WAVES,"Media, Entertainment & Publication",44.51,32.42,37.53,35.1,0.33,288.75,270.75,24471.7,94.25
+2026-08-11,strategy_1,VERTOZ,WAVES,"Media, Entertainment & Publication",44.51,44.6,37.89,35.31,0.91,39.01,35.89,24471.7,94.25
+2026-08-11,strategy_1,BANDHANBNK,HOUSING,FINANCIAL SERVICES,,40.33,38.81,37.09,0.25,190.62,174.0,24471.7,16705.05
