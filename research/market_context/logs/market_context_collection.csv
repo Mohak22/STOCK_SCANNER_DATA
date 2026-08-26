@@ -31,3 +31,19 @@ psubank,^CNXPSUBANK,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo 
 privatebank,NIFTY_PVT_BANK.NS,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
 finance,NIFTY_FIN_SERVICE.NS,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
 pse,^CNXPSE,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+nifty_50,^NSEI,success,2622,1,2623,2016-01-04,2026-08-25,
+nifty_500,^CRSLDX,success,2619,1,2620,2016-01-01,2026-08-25,
+auto,^CNXAUTO,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+bank,^NSEBANK,success,2625,1,2626,2016-01-01,2026-08-25,
+fmcg,^CNXFMCG,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+it,^CNXIT,success,2625,1,2626,2016-01-01,2026-08-25,
+media,^CNXMEDIA,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+metal,^CNXMETAL,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+pharma,^CNXPHARMA,success,2624,1,2625,2016-01-01,2026-08-25,
+realty,^CNXREALTY,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+energy,^CNXENERGY,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+infra,^CNXINFRA,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+psubank,^CNXPSUBANK,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+privatebank,NIFTY_PVT_BANK.NS,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+finance,NIFTY_FIN_SERVICE.NS,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
+pse,^CNXPSE,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
