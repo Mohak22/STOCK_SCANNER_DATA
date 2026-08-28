@@ -63,3 +63,19 @@ psubank,^CNXPSUBANK,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo 
 privatebank,NIFTY_PVT_BANK.NS,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
 finance,NIFTY_FIN_SERVICE.NS,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
 pse,^CNXPSE,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+nifty_50,^NSEI,success,2624,1,2625,2016-01-04,2026-08-27,
+nifty_500,^CRSLDX,success,2621,1,2622,2016-01-01,2026-08-27,
+auto,^CNXAUTO,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+bank,^NSEBANK,success,2627,1,2628,2016-01-01,2026-08-27,
+fmcg,^CNXFMCG,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+it,^CNXIT,success,2627,1,2628,2016-01-01,2026-08-27,
+media,^CNXMEDIA,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+metal,^CNXMETAL,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+pharma,^CNXPHARMA,success,2626,1,2627,2016-01-01,2026-08-27,
+realty,^CNXREALTY,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+energy,^CNXENERGY,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+infra,^CNXINFRA,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+psubank,^CNXPSUBANK,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+privatebank,NIFTY_PVT_BANK.NS,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+finance,NIFTY_FIN_SERVICE.NS,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
+pse,^CNXPSE,unavailable,0,0,0,,,Download failed after 2 attempts: Yahoo Finance returned no data.
