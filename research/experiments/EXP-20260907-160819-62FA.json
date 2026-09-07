@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "experiment_id": "EXP-20260907-160819-62FA",
-  "status": "SAVED",
+  "status": "LOCKED",
   "name": "RSI EMA Initial Experiment",
   "notes": "First Research Cockpit experiment",
   "tags": [
@@ -10,7 +10,7 @@
     "BTST"
   ],
   "created_at": "2026-09-07T16:08:19.855297+05:30",
-  "locked_at": null,
+  "locked_at": "2026-09-07T16:11:35.897472+05:30",
   "research_result": {
     "research_config": {
       "training_start": "2020-01-01",
