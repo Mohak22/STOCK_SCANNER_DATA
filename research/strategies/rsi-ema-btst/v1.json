@@ -68,13 +68,75 @@
       "definition": "20-trading-day trailing NIFTY 50 return at the signal date"
     }
   },
-  "workflow_stage": "VALIDATION",
+  "workflow_stage": "TESTING",
   "workflow_started_at": "2026-09-07T18:22:53.308925+05:30",
   "training_state": "COMPLETE",
-  "validation_state": "LOCKED",
+  "validation_state": "COMPLETE",
   "validation_started_at": "2026-09-07T18:24:01.301860+05:30",
   "validation_notes": "Training completed. Strategy configuration frozen for validation",
   "locked_research_config": {
+    "training_start": "2020-01-01",
+    "training_end": "2025-06-30",
+    "validation_start": "2025-07-01",
+    "validation_end": "2025-09-30",
+    "testing_start": "2025-10-01",
+    "testing_end": "2025-12-31",
+    "universe": {
+      "type": "symbols",
+      "symbols": [
+        "20MICRONS",
+        "21STCENMGM",
+        "360ONE",
+        "5PAISA"
+      ]
+    },
+    "features": [
+      {
+        "type": "RSI",
+        "period": 9
+      },
+      {
+        "type": "EMA",
+        "period": 20
+      },
+      {
+        "type": "EMA",
+        "period": 50
+      }
+    ],
+    "entry_conditions": [
+      {
+        "feature": "RSI_9",
+        "operator": "<",
+        "value": 30
+      },
+      {
+        "feature": "EMA_20",
+        "operator": ">",
+        "value": "EMA_50"
+      }
+    ],
+    "evaluation_horizons": [
+      1,
+      3,
+      5,
+      10
+    ],
+    "market_benchmark": {
+      "name": "NIFTY 50",
+      "file": "nifty_50.parquet"
+    },
+    "market_regime": {
+      "lookback": 20,
+      "bear_threshold": -5,
+      "bull_threshold": 5,
+      "definition": "20-trading-day trailing NIFTY 50 return at the signal date"
+    }
+  },
+  "testing_state": "LOCKED",
+  "testing_started_at": "2026-09-07T18:25:02.427955+05:30",
+  "testing_notes": "Validation completed. Strategy locked for testing.",
+  "testing_research_config": {
     "training_start": "2020-01-01",
     "training_end": "2025-06-30",
     "validation_start": "2025-07-01",
