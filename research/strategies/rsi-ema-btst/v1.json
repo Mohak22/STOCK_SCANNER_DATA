@@ -67,5 +67,8 @@
       "bull_threshold": 5,
       "definition": "20-trading-day trailing NIFTY 50 return at the signal date"
     }
-  }
+  },
+  "workflow_stage": "TRAINING",
+  "workflow_started_at": "2026-09-07T18:22:53.308925+05:30",
+  "training_state": "ACTIVE"
 }
