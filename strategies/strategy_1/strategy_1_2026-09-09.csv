@@ -1,0 +1,11 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-09-09,strategy_1,UBL,FMCG,Fast Moving Consumer Goods,31.86,24.46,28.21,21.42,1.68,1346.29,1266.7,23431.5,45309.25
+2026-09-09,strategy_1,ASIANPAINT,CONSUMPTION,Consumer Durables,26.05,25.15,29.01,27.28,0.77,2646.81,2489.0,23431.5,103.99
+2026-09-09,strategy_1,HINDPETRO,COMMODITIES,Oil Gas & Consumable Fuels,44.2,26.56,30.07,27.66,1.26,376.56,348.9,23431.5,97.67
+2026-09-09,strategy_1,BRITANNIA,CONSUMPTION,Fast Moving Consumer Goods,26.05,30.11,34.74,32.11,0.7,5314.04,5090.0,23431.5,103.99
+2026-09-09,strategy_1,DMART,CONSUMPTION,Consumer Services,26.05,32.47,34.75,32.79,0.43,3937.65,3735.0,23431.5,103.99
+2026-09-09,strategy_1,VBL,CONSUMPTION,Fast Moving Consumer Goods,26.05,37.05,36.31,35.19,1.73,444.35,407.0,23431.5,103.99
+2026-09-09,strategy_1,CROMPTON,CONSUMERDURABLES,Consumer Durables,34.44,39.68,37.98,36.45,0.98,248.47,232.96,23431.5,108.45
+2026-09-09,strategy_1,TRENT,CONSUMPTION,Consumer Services,26.05,36.87,38.05,33.34,0.88,2923.98,2820.0,23431.5,103.99
+2026-09-09,strategy_1,EMAMILTD,FMCG,Fast Moving Consumer Goods,31.86,37.29,38.14,33.42,5.7,392.97,369.1,23431.5,45309.25
+2026-09-09,strategy_1,DALBHARAT,CEMENT,Construction Materials,,34.77,38.36,32.0,0.14,1797.35,1733.6,23431.5,14297.65
