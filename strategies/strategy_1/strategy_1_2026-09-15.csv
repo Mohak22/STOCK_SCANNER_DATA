@@ -1,0 +1,5 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-09-15,strategy_1,TMPV,AUTO,Automobile and Auto Components,46.59,35.5,34.3,28.0,2.25,328.26,304.8,23172.35,26858.4
+2026-09-15,strategy_1,AFCONS,INFRA_LOGISTICS,Construction,22.95,33.89,36.76,28.24,11.74,285.12,261.9,23172.35,95.12
+2026-09-15,strategy_1,HINDUNILVR,CONSUMPTION,Fast Moving Consumer Goods,19.75,36.6,37.83,32.15,1.28,2048.97,1947.8,23172.35,99.68
+2026-09-15,strategy_1,HEROMOTOCO,AUTO,Automobile and Auto Components,46.59,33.98,38.81,38.77,1.19,5359.93,5222.0,23172.35,26858.4
