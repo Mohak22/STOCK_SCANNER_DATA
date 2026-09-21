@@ -1,0 +1,10 @@
+{
+  "experiment_id": "EXP-20260921-220209-03B3",
+  "name": "Find oversold stocks using RSI and evaluate their forward returns.",
+  "status": "SAVED",
+  "created_at": "2026-09-21T22:02:09.199420+05:30",
+  "locked_at": null,
+  "tags": [
+    "RSI"
+  ]
+}
