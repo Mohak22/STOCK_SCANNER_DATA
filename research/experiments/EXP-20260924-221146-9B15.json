@@ -1,14 +1,14 @@
 {
   "schema_version": 1,
   "experiment_id": "EXP-20260924-221146-9B15",
-  "status": "SAVED",
+  "status": "LOCKED",
   "name": "Find oversold stocks using RSI and evaluate their forward returns.",
   "notes": "Saved from Research Cockpit.",
   "tags": [
     "RSI"
   ],
   "created_at": "2026-09-24T22:11:46.155852+05:30",
-  "locked_at": null,
+  "locked_at": "2026-09-24T22:33:55.554965+05:30",
   "research_result": {
     "research_config": {
       "training_start": "2025-12-01",
