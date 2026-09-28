@@ -1,0 +1,9 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-09-28,strategy_1,TATAELXSI,DIGITAL,Information Technology,25.57,21.86,25.39,25.23,0.71,3517.07,3188.0,22799.55,101.58
+2026-09-28,strategy_1,TATATECH,DIGITAL,Information Technology,25.57,25.21,30.33,28.33,0.86,763.93,707.15,22799.55,101.58
+2026-09-28,strategy_1,INFY,DIGITAL,Information Technology,25.57,26.38,30.72,29.14,0.85,1078.63,1004.2,22799.55,101.58
+2026-09-28,strategy_1,LTM,DIGITAL,Information Technology,25.57,30.91,34.31,33.25,0.95,4293.19,4095.2,22799.55,101.58
+2026-09-28,strategy_1,INTELLECT,DIGITAL,Information Technology,25.57,33.68,34.42,33.36,0.54,686.72,635.05,22799.55,101.58
+2026-09-28,strategy_1,FEDERALBNK,BANK,Financial Services,29.87,30.15,34.49,30.7,1.39,341.18,324.6,22799.55,54485.75
+2026-09-28,strategy_1,OFSS,DIGITAL,Information Technology,25.57,32.45,36.04,34.42,0.75,11480.36,10830.0,22799.55,101.58
+2026-09-28,strategy_1,NETWEB,DIGITAL,Information Technology,25.57,33.91,39.02,38.39,0.49,4819.92,4558.5,22799.55,101.58
