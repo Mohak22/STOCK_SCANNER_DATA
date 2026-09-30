@@ -527,3 +527,19 @@ psubank,^CNXPSUBANK,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download faile
 privatebank,NIFTY_PVT_BANK.NS,unavailable,2534,0,2534,2016-03-14,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
 finance,NIFTY_FIN_SERVICE.NS,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
 pse,^CNXPSE,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+nifty_50,^NSEI,success,2645,1,2646,2016-01-04,2026-09-29,
+nifty_500,^CRSLDX,success,2642,1,2643,2016-01-01,2026-09-29,
+auto,^CNXAUTO,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+bank,^NSEBANK,success,2648,1,2649,2016-01-01,2026-09-29,
+fmcg,^CNXFMCG,unavailable,2583,0,2583,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+it,^CNXIT,success,2648,1,2649,2016-01-01,2026-09-29,
+media,^CNXMEDIA,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+metal,^CNXMETAL,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+pharma,^CNXPHARMA,success,2647,1,2648,2016-01-01,2026-09-29,
+realty,^CNXREALTY,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+energy,^CNXENERGY,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+infra,^CNXINFRA,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+psubank,^CNXPSUBANK,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+privatebank,NIFTY_PVT_BANK.NS,unavailable,2534,0,2534,2016-03-14,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+finance,NIFTY_FIN_SERVICE.NS,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+pse,^CNXPSE,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
