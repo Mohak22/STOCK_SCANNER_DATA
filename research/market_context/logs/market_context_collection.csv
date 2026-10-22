@@ -783,3 +783,19 @@ psubank,^CNXPSUBANK,unavailable,2587,0,2587,2016-01-01,2026-10-19,Download faile
 privatebank,NIFTY_PVT_BANK.NS,unavailable,2534,0,2534,2016-03-14,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
 finance,NIFTY_FIN_SERVICE.NS,unavailable,2587,0,2587,2016-01-01,2026-10-19,Download failed after 2 attempts: Yahoo Finance returned no data.
 pse,^CNXPSE,unavailable,2587,0,2587,2016-01-01,2026-10-19,Download failed after 2 attempts: Yahoo Finance returned no data.
+nifty_50,^NSEI,success,2659,1,2660,2016-01-04,2026-10-21,
+nifty_500,^CRSLDX,success,2656,1,2657,2016-01-01,2026-10-21,
+auto,^CNXAUTO,success,2587,1,2588,2016-01-01,2026-10-21,
+bank,^NSEBANK,success,2662,1,2663,2016-01-01,2026-10-21,
+fmcg,^CNXFMCG,success,2586,1,2587,2016-01-01,2026-10-21,
+it,^CNXIT,success,2662,1,2663,2016-01-01,2026-10-21,
+media,^CNXMEDIA,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+metal,^CNXMETAL,success,2587,1,2588,2016-01-01,2026-10-21,
+pharma,^CNXPHARMA,success,2661,1,2662,2016-01-01,2026-10-21,
+realty,^CNXREALTY,success,2587,1,2588,2016-01-01,2026-10-21,
+energy,^CNXENERGY,success,2587,1,2588,2016-01-01,2026-10-21,
+infra,^CNXINFRA,success,2587,1,2588,2016-01-01,2026-10-21,
+psubank,^CNXPSUBANK,success,2587,1,2588,2016-01-01,2026-10-21,
+privatebank,NIFTY_PVT_BANK.NS,unavailable,2534,0,2534,2016-03-14,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+finance,NIFTY_FIN_SERVICE.NS,success,2587,1,2588,2016-01-01,2026-10-21,
+pse,^CNXPSE,success,2587,1,2588,2016-01-01,2026-10-21,
