@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "experiment_id": "EXP-20261101-225938-23F0",
+  "name": "Research Experiment",
+  "status": "SAVED",
+  "created_at": "2026-11-01T22:59:38.077500+05:30",
+  "updated_at": "2026-11-01T22:59:38.077500+05:30",
+  "locked_at": null,
+  "parent_experiment_id": null,
+  "lineage": {
+    "parent_experiment_id": null
+  },
+  "snapshot": {
+    "research_schema_version": "2",
+    "research_question": null,
+    "hypothesis": null,
+    "reproducibility_hooks": {
+      "data_revision": "58db172cadbceaacdb3f1c1ce003f7be2a6f0616",
+      "universe_revision": "9a5c57247c7a047e621bf0021f35476e010af46b",
+      "engine_version": "1.0.0",
+      "run_timestamp": "2026-11-01T17:11:48.286067+00:00"
+    },
+    "universe_membership_basis": "current_snapshot",
+    "temporal_convention": {
+      "signal_observation": "signal_date",
+      "entry": "same signal_date close proxy",
+      "entry_price_basis": "CLOSE",
+      "t1_outcome": "next available symbol session CLOSE",
+      "t1_outcome_price_basis": "NEXT_SESSION_CLOSE",
+      "t1_outcome_type": "close_to_close_return",
+      "outcome": "N-th subsequent available symbol session CLOSE",
+      "outcome_price_basis": "CLOSE",
+      "horizon_anchor": "signal_date",
+      "stage_boundary_policy": "strict_signal_and_outcome_within_stage"
+    }
+  },
+  "reproducibility_hooks": {
+    "data_revision": "58db172cadbceaacdb3f1c1ce003f7be2a6f0616",
+    "universe_revision": "9a5c57247c7a047e621bf0021f35476e010af46b",
+    "engine_version": "1.0.0",
+    "run_timestamp": "2026-11-01T17:11:48.286067+00:00"
+  },
+  "tags": [
+    "OPEN"
+  ]
+}
