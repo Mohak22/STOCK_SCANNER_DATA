@@ -1,0 +1,8 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-11-02,strategy_1,MAZDOCK,DEFENCE,Capital Goods,39.58,25.96,26.29,22.02,1.22,2115.7,1736.6,23440.8,94.75
+2026-11-02,strategy_1,BDL,DEFENCE,Capital Goods,39.58,34.7,34.24,28.58,1.27,1129.11,996.0,23440.8,94.75
+2026-11-02,strategy_1,MIDHANI,DEFENCE,Capital Goods,39.58,37.59,38.73,32.63,1.16,408.86,372.4,23440.8,94.75
+2026-11-02,strategy_1,BHARATFORG,AUTO,Automobile and Auto Components,49.2,41.57,39.08,32.91,1.13,1897.05,1753.4,23440.8,25761.0
+2026-11-02,strategy_1,COCHINSHIP,CPSE,Capital Goods,54.68,43.93,39.33,27.9,1.04,1296.43,1167.0,23440.8,91.44
+2026-11-02,strategy_1,DYNAMATECH,DEFENCE,Capital Goods,39.58,35.36,39.75,34.41,0.93,12468.23,11928.0,23440.8,94.75
+2026-11-02,strategy_1,DATAPATTNS,DEFENCE,Capital Goods,39.58,39.27,39.82,37.84,0.98,4223.22,3840.0,23440.8,94.75
