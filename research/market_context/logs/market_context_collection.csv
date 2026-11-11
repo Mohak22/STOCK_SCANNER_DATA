@@ -1007,3 +1007,19 @@ psubank,^CNXPSUBANK,success,2600,1,2601,2016-01-01,2026-11-09,
 privatebank,NIFTY_PVT_BANK.NS,unavailable,2534,0,2534,2016-03-14,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned insufficient history for the requested range.
 finance,NIFTY_FIN_SERVICE.NS,success,2600,1,2601,2016-01-01,2026-11-09,
 pse,^CNXPSE,success,2600,1,2601,2016-01-01,2026-11-09,
+nifty_50,^NSEI,failed,2673,0,2673,2016-01-04,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+nifty_500,^CRSLDX,failed,2670,0,2670,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+auto,^CNXAUTO,unavailable,2601,0,2601,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+bank,^NSEBANK,unavailable,2676,0,2676,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+fmcg,^CNXFMCG,unavailable,2600,0,2600,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+it,^CNXIT,unavailable,2676,0,2676,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+media,^CNXMEDIA,unavailable,2584,0,2584,2016-01-01,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+metal,^CNXMETAL,unavailable,2601,0,2601,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+pharma,^CNXPHARMA,unavailable,2675,0,2675,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+realty,^CNXREALTY,unavailable,2601,0,2601,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+energy,^CNXENERGY,unavailable,2601,0,2601,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+infra,^CNXINFRA,unavailable,2601,0,2601,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+psubank,^CNXPSUBANK,unavailable,2601,0,2601,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+privatebank,NIFTY_PVT_BANK.NS,unavailable,2534,0,2534,2016-03-14,2026-07-17,Download failed after 2 attempts: Yahoo Finance returned no data.
+finance,NIFTY_FIN_SERVICE.NS,unavailable,2601,0,2601,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
+pse,^CNXPSE,unavailable,2601,0,2601,2016-01-01,2026-11-09,Download failed after 2 attempts: Yahoo Finance returned no data.
