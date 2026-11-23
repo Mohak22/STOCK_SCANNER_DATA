@@ -1,0 +1,3 @@
+recommendation_date,strategy_name,stock_symbol,sector,industry,sector_rsi_14,rsi_9,rsi_14,previous_rsi_14,volume_ratio,ema_50,entry_close_price,nifty_50_price,sector_price
+2026-11-23,strategy_1,DGCONTENT,WAVES,"Media, Entertainment & Publication",40.59,31.33,34.55,32.78,0.07,22.99,20.65,25349.65,90.14
+2026-11-23,strategy_1,MTARTECH,DEFENCE,Capital Goods,44.24,36.99,37.67,36.58,1.05,6555.65,5659.0,25349.65,91.53
